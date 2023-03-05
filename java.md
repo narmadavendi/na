@@ -8,4 +8,4 @@ sudo apt install openjdk-17-jdk -y
 ```
 [refer her ] https://community.chocolatey.org/packages/vscode#upgrade
 
-![preview] C:\Users\namob\OneDrive\Pictures\Screenshots\sai.png
+![preview] (C:\Users\namob\OneDrive\Pictures\Screenshots\sai.png)
